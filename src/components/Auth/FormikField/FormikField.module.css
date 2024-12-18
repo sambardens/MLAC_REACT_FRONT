@@ -1,0 +1,22 @@
+.input {
+	width: 100%;
+	padding: 16px 12px;
+	color: #282727;
+	border: 1px solid #D2D2D2;
+	border-radius: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.input::placeholder {
+    color: #D2D2D2;
+  }
+
+  .input:focus {
+    outline: none;
+	border-color: #909090;
+  }
+
+
+  .input:not(:focus):not(:placeholder-shown):invalid {
+    border-color: #FF0151;
+  }

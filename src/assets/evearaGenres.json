@@ -1,0 +1,334 @@
+[
+	{
+		"genre_id": 1,
+		"name": "Alternative"
+	},
+	{
+		"genre_id": 2,
+		"name": "Alternative Rock"
+	},
+	{
+		"genre_id": 3,
+		"name": "Alternativo & Rock Latino"
+	},
+	{
+		"genre_id": 4,
+		"name": "Anime"
+	},
+	{
+		"genre_id": 5,
+		"name": "Baladas y Boleros"
+	},
+	{
+		"genre_id": 6,
+		"name": "Big Band"
+	},
+	{
+		"genre_id": 7,
+		"name": "Blues"
+	},
+	{
+		"genre_id": 8,
+		"name": "Brazilian"
+	},
+	{
+		"genre_id": 9,
+		"name": "C-Pop"
+	},
+	{
+		"genre_id": 10,
+		"name": "Cantopop/HK-Pop\n"
+	},
+	{
+		"genre_id": 11,
+		"name": "Children's"
+	},
+	{
+		"genre_id": 12,
+		"name": "Chinese"
+	},
+	{
+		"genre_id": 13,
+		"name": "Christian"
+	},
+	{
+		"genre_id": 14,
+		"name": "Classical"
+	},
+	{
+		"genre_id": 15,
+		"name": "Comedy"
+	},
+	{
+		"genre_id": 16,
+		"name": "Contemporary Latin"
+	},
+	{
+		"genre_id": 17,
+		"name": "Country"
+	},
+	{
+		"genre_id": 18,
+		"name": "Dance"
+	},
+	{
+		"genre_id": 19,
+		"name": "Easy Listening"
+	},
+	{
+		"genre_id": 20,
+		"name": "Educational"
+	},
+	{
+		"genre_id": 21,
+		"name": "Electronic"
+	},
+	{
+		"genre_id": 22,
+		"name": "Enka"
+	},
+	{
+		"genre_id": 23,
+		"name": "Experimental"
+	},
+	{
+		"genre_id": 24,
+		"name": "Fitness & Workout"
+	},
+	{
+		"genre_id": 25,
+		"name": "Folk"
+	},
+	{
+		"genre_id": 26,
+		"name": "French Pop"
+	},
+	{
+		"genre_id": 27,
+		"name": "German Folk"
+	},
+	{
+		"genre_id": 28,
+		"name": "German Pop"
+	},
+	{
+		"genre_id": 29,
+		"name": "Hip-Hop/Rap"
+	},
+	{
+		"genre_id": 30,
+		"name": "Holiday"
+	},
+	{
+		"genre_id": 31,
+		"name": "Indo Pop"
+	},
+	{
+		"genre_id": 32,
+		"name": "Inspirational"
+	},
+	{
+		"genre_id": 33,
+		"name": "Instrumental"
+	},
+	{
+		"genre_id": 34,
+		"name": "J-Pop"
+	},
+	{
+		"genre_id": 35,
+		"name": "Jazz"
+	},
+	{
+		"genre_id": 36,
+		"name": "K-Pop"
+	},
+	{
+		"genre_id": 37,
+		"name": "Karaoke"
+	},
+	{
+		"genre_id": 38,
+		"name": "Kayokyoku"
+	},
+	{
+		"genre_id": 39,
+		"name": "Latin"
+	},
+	{
+		"genre_id": 40,
+		"name": "Latin Jazz"
+	},
+	{
+		"genre_id": 41,
+		"name": "Metal"
+	},
+	{
+		"genre_id": 42,
+		"name": "New Age"
+	},
+	{
+		"genre_id": 43,
+		"name": "Opera"
+	},
+	{
+		"genre_id": 44,
+		"name": "Original Pilipino Music"
+	},
+	{
+		"genre_id": 45,
+		"name": "Pop"
+	},
+	{
+		"genre_id": 46,
+		"name": "Pop Latino"
+	},
+	{
+		"genre_id": 47,
+		"name": "Punk"
+	},
+	{
+		"genre_id": 48,
+		"name": "R&B"
+	},
+	{
+		"genre_id": 49,
+		"name": "Raíces"
+	},
+	{
+		"genre_id": 50,
+		"name": "Reggae"
+	},
+	{
+		"genre_id": 51,
+		"name": "Reggaeton y Hip-Hop"
+	},
+	{
+		"genre_id": 52,
+		"name": "Regional Mexicano"
+	},
+	{
+		"genre_id": 53,
+		"name": "Rock"
+	},
+	{
+		"genre_id": 54,
+		"name": "Salsa y Tropical"
+	},
+	{
+		"genre_id": 55,
+		"name": "Singer/Songwriter"
+	},
+	{
+		"genre_id": 56,
+		"name": "Soul"
+	},
+	{
+		"genre_id": 57,
+		"name": "Soundtrack"
+	},
+	{
+		"genre_id": 58,
+		"name": "Spoken Word"
+	},
+	{
+		"genre_id": 59,
+		"name": "Tai-Pop"
+	},
+	{
+		"genre_id": 60,
+		"name": "Thai Pop"
+	},
+	{
+		"genre_id": 61,
+		"name": "Trot"
+	},
+	{
+		"genre_id": 62,
+		"name": "Vocal/Nostalgia"
+	},
+	{
+		"genre_id": 63,
+		"name": "World"
+	},
+	{
+		"genre_id": 94,
+		"name": "Gospel"
+	},
+	{
+		"genre_id": 95,
+		"name": "Soca &/or Calypso"
+	},
+	{
+		"genre_id": 96,
+		"name": "Christmas"
+	},
+	{
+		"genre_id": 97,
+		"name": "Dancehall"
+	},
+	{
+		"genre_id": 98,
+		"name": "Steel Pan"
+	},
+	{
+		"genre_id": 99,
+		"name": "Chutney"
+	},
+	{
+		"genre_id": 100,
+		"name": "nu disco"
+	},
+	{
+		"genre_id": 101,
+		"name": "Spoof"
+	},
+	{
+		"genre_id": 125,
+		"name": "African"
+	},
+	{
+		"genre_id": 126,
+		"name": "Afro-Pop"
+	},
+	{
+		"genre_id": 127,
+		"name": "Afro-Soul"
+	},
+	{
+		"genre_id": 128,
+		"name": "Afro-Beat"
+	},
+	{
+		"genre_id": 129,
+		"name": "Dub"
+	},
+	{
+		"genre_id": 130,
+		"name": "Kuduro"
+	},
+	{
+		"genre_id": 131,
+		"name": "Ndombolo"
+	},
+	{
+		"genre_id": 132,
+		"name": "Neo-Soul"
+	},
+	{
+		"genre_id": 133,
+		"name": "North African"
+	},
+	{
+		"genre_id": 134,
+		"name": "Religious"
+	},
+	{
+		"genre_id": 135,
+		"name": "Zouglou"
+	},
+	{
+		"genre_id": 136,
+		"name": "Soukous"
+	}
+]

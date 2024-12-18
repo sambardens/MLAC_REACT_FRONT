@@ -1,0 +1,162 @@
+[
+	{
+		"id": 1,
+		"label": "Author",
+		"value": 1
+	},
+	{
+		"id": 2,
+		"label": "Composer",
+		"value": 2
+	},
+	{
+		"id": 3,
+		"label": "Label",
+		"value": 3
+	},
+	{
+		"id": 4,
+		"label": "Producer",
+		"value": 4
+	},
+	{
+		"id": 5,
+		"label": "Publisher",
+		"value": 5
+	},
+	{
+		"id": 6,
+		"label": "Artist",
+		"value": 6
+	},
+	{
+		"id": 7,
+		"label": "Contributor",
+		"value": 7
+	},
+	{
+		"id": 8,
+		"label": "Mixing Engineer",
+		"value": 8
+	},
+	{
+		"id": 9,
+		"label": "Recording Engineer",
+		"value": 9
+	},
+	{
+		"id": 10,
+		"label": "Mastering Engineer",
+		"value": 10
+	},
+	{
+		"id": 11,
+		"label": "Guitar",
+		"value": 11
+	},
+	{
+		"id": 12,
+		"label": "Drums",
+		"value": 12
+	},
+	{
+		"id": 13,
+		"label": "Bass",
+		"value": 13
+	},
+	{
+		"id": 14,
+		"label": "Keyboards",
+		"value": 14
+	},
+	{
+		"id": 15,
+		"label": "Executive Producer",
+		"value": 15
+	},
+	{
+		"id": 16,
+		"label": "Vocal",
+		"value": 16
+	},
+	{
+		"id": 17,
+		"label": "Harmonica",
+		"value": 17
+	},
+	{
+		"id": 18,
+		"label": "Saxophone",
+		"value": 18
+	},
+	{
+		"id": 21,
+		"label": "Violin",
+		"value": 21
+	},
+	{
+		"id": 25,
+		"label": "Orchestra",
+		"value": 25
+	},
+	{
+		"id": 26,
+		"label": "Organ",
+		"value": 26
+	},
+	{
+		"id": 27,
+		"label": "Choir",
+		"value": 27
+	},
+	{
+		"id": 28,
+		"label": "Remixer",
+		"value": 28
+	},
+	{
+		"id": 29,
+		"label": "Piano",
+		"value": 29
+	},
+	{
+		"id": 30,
+		"label": "Horns",
+		"value": 30
+	},
+	{
+		"id": 31,
+		"label": "Artwork",
+		"value": 31
+	},
+	{
+		"id": 32,
+		"label": "Creative Director",
+		"value": 32
+	},
+	{
+		"id": 33,
+		"label": "Production Coordinator",
+		"value": 33
+	},
+	{
+		"id": 34,
+		"label": "Strings",
+		"value": 34
+	},
+	{
+		"id": 35,
+		"label": "Synthesizer",
+		"value": 35
+	},
+	{
+		"id": 36,
+		"label": "Percussion",
+		"value": 36
+	},
+	{
+		"id": 37,
+		"label": "A&R",
+		"value": 37
+	}
+]

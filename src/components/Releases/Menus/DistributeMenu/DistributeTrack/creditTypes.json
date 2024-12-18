@@ -1,0 +1,22 @@
+[
+	{
+		"id": 2,
+		"label": "Composer",
+		"value": "Composer"
+	},
+	{
+		"id": 3,
+		"label": "Lyricist",
+		"value": "Lyricist"
+	},
+	{
+		"id": 4,
+		"label": "Producer",
+		"value": "Producer"
+	},
+	{
+		"id": 5,
+		"label": "Remixer",
+		"value": "Remixer"
+	}
+]
